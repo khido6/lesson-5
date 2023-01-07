@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+header{
+	background-color: #0020F4;
+	padding: 50px 200px 250px 200px;
+}
+nav, nav ul, nav li {
+	list-style-type: none;
+	display: inline-block;
+}
+ul, .mlogo{
+	vertical-align: middle;
+	font-size: 20px;
+}
+section{
+	width: 1500px;
+	margin: auto;
+	padding: auto;
+}
+.kont{
+	background-color: #FFFFFF;
+}	
