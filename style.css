@@ -74,4 +74,31 @@ footer{
 	color: #FFFFFF;
 	margin-top: 200px;
 	height: 1080px;
+	padding: 150px 200px 10px 200px;
+}
+.ufleba{
+	width: 700px;
+}
+.cont{
+	padding-left: 40px;
+}
+.tele{
+	background-color: #FFFFFF;
+	padding: 20px 20px 20px 20px;
+	border-radius: 35px;
+}
+span{
+	font-size: 30px;
+}
+.mail{
+	background-color: #FFFFFF;
+	padding: 20px 20px 20px 20px;
+	border-radius: 35px;
+}
+.send{
+	background-color: #FFFFFF;
+	color: #171717;
+	padding: 25px 50px 25px 50px;
+	border-radius: 40px;
+	font-size: 20px;
 }
