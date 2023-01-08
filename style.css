@@ -19,14 +19,35 @@ ul, .mlogo{
 	vertical-align: middle;
 	font-size: 20px;
 }
-section{
-	width: 1500px;
-	margin: auto;
-	padding: auto;
+section div{
+	width: 1800px;
+    margin-left: auto;
+	margin-right: auto;
 }
 .kont{
 	background-color: #FFFFFF;
 	color: #171717;
-	padding: 13px;
-	border-radius: 28px;
+	padding: 20px 45px 20px 45px;
+	border-radius: 30px;
 }	
+.didisurati{
+	margin: -150px;
+	width: 1800px;
+	height: 1100px;
+    margin-left: auto;
+	margin-right: auto;
+}
+.plog, .tema{
+	margin: 150px;
+}
+.plog{
+	margin: 10px;
+	margin-top: -70px;
+	width: 335px;
+}
+.tema{
+	font-size: 35px;
+	text-align: left;
+	margin-left: 0;
+	padding-top: 20px;
+}
