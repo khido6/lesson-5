@@ -104,6 +104,6 @@ a, .maildatele{
 	vertical-align: middle;
 	font-size: 25px;
 }
-div, h4, h5, .heart, .smart{
+h4, h5, .heart, .smart{
 	display: inline-block;
 }
