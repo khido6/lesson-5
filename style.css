@@ -18,6 +18,7 @@ nav, nav ul, nav li {
 ul, .mlogo{
 	vertical-align: middle;
 	font-size: 20px;
+	word-spacing: 30px;
 }
 section div{
 	width: 1800px;
@@ -72,8 +73,8 @@ p{
 footer{
 	background-color: #0A22F4;
 	color: #FFFFFF;
-	margin-top: 200px;
-	height: 1080px;
+	margin-top: 180px;
+	height: 1200px;
 	padding: 150px 200px 10px 200px;
 }
 .ufleba{
@@ -84,16 +85,13 @@ footer{
 }
 .tele{
 	background-color: #FFFFFF;
-	padding: 20px 20px 20px 20px;
-	border-radius: 35px;
-}
-span{
-	font-size: 30px;
+	padding: 30px 30px 30px 30px;
+	border-radius: 45px;
 }
 .mail{
 	background-color: #FFFFFF;
-	padding: 20px 20px 20px 20px;
-	border-radius: 35px;
+	padding: 30px 30px 30px 30px;
+	border-radius: 45px;
 }
 .send{
 	background-color: #FFFFFF;
@@ -101,4 +99,11 @@ span{
 	padding: 25px 50px 25px 50px;
 	border-radius: 40px;
 	font-size: 20px;
+}
+a, .maildatele{
+	vertical-align: middle;
+	font-size: 25px;
+}
+div, h4, h5, .heart, .smart{
+	display: inline-block;
 }
