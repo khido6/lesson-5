@@ -9,88 +9,90 @@ a{
 }
 header{
 	background-color: #0020F4;
-	padding: 50px 200px 250px 200px;
+	padding: 50px 120px 250px 120px;
 }
 nav, nav ul, nav li {
 	list-style-type: none;
 	display: inline-block;
+	word-spacing: 10px;
 }
-ul, .mlogo{
+.mlogo{
 	vertical-align: middle;
-	font-size: 20px;
-	word-spacing: 30px;
+	font-size: 5px;
+	word-spacing: 10px;
 }
 section div{
-	width: 1800px;
+	width: 800px;
     margin-left: auto;
 	margin-right: auto;
 }
 .kont{
 	background-color: #FFFFFF;
 	color: #171717;
-	padding: 20px 45px 20px 45px;
+	padding: 10px 25px 10px 25px;
 	border-radius: 30px;
 }	
 .didisurati{
-	margin: -150px;
-	width: 1800px;
-	height: 1100px;
+	margin: -130px;
+	width: 800px;
+	height: 450px;
     margin-left: auto;
 	margin-right: auto;
 }
 .plog, .tema{
-	margin: 150px;
+	margin: 100px;
 }
 .plog{
 	margin: 10px;
-	margin-top: -70px;
-	width: 335px;
+	margin-top: -50px;
+	width: 135px;
 }
 .tema{
-	font-size: 35px;
+	font-size: 20px;
 	text-align: left;
 	margin-left: 0;
-	padding-top: 20px;
+	padding-top: 45px;
 }
 article, p{
-	width: 1400px;
+	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 25px;
+	font-size: 15px;
 }
 p{
-	margin: 40px;
+	margin: 20px;
 }
 .info{
 	background-color: #0A22F4;
 	color: #FFFFFF;
-	font-size: 25px;
+	font-size: 15px;
 	padding: 20px 45px 20px 45px;
 	border-radius: 30px;
-	margin: 1100px 1100px;
-	margin-bottom: 200px;
+	margin-bottom: 170px;
+	margin-left: 500px;
+	margin-right: 500px;
 }
 footer{
 	background-color: #0A22F4;
 	color: #FFFFFF;
 	margin-top: 180px;
-	height: 1200px;
-	padding: 150px 200px 10px 200px;
+	height: 800px;
+	padding: 110px 130px 10px 130px;
 }
 .ufleba{
-	width: 700px;
+	width: 400px;
 }
 .cont{
-	padding-left: 40px;
+	padding-left: 25px;
 }
 .tele{
 	background-color: #FFFFFF;
-	padding: 30px 30px 30px 30px;
+	padding: 20px 20px 20px 20px;
 	border-radius: 45px;
 }
 .mail{
 	background-color: #FFFFFF;
-	padding: 30px 30px 30px 30px;
+	padding: 20px 20px 20px 20px;
 	border-radius: 45px;
 }
 .send{
