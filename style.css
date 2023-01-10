@@ -1,3 +1,5 @@
+@import url("//cdn.web-fonts.ge/fonts/alk-rex-bold/css/alk-rex-bold.min.css");
+
 *{
 	margin: 0;
 	padding: 0;
@@ -31,6 +33,7 @@ section div{
 	color: #171717;
 	padding: 10px 25px 10px 25px;
 	border-radius: 30px;
+	font-family: "ALK Rex Bold", sans-serif;
 }	
 .didisurati{
 	margin: -130px;
@@ -52,6 +55,7 @@ section div{
 	text-align: left;
 	margin-left: 0;
 	padding-top: 45px;
+	font-family: "ALK Rex Bold", sans-serif;
 }
 article, p{
 	width: 800px;
@@ -76,8 +80,8 @@ footer{
 	background-color: #0A22F4;
 	color: #FFFFFF;
 	margin-top: 180px;
-	height: 800px;
-	padding: 110px 130px 10px 130px;
+	height: 700px;
+	padding: 40px 110px 10px 110px;
 }
 .ufleba{
 	width: 400px;
@@ -98,7 +102,7 @@ footer{
 .send{
 	background-color: #FFFFFF;
 	color: #171717;
-	padding: 25px 50px 25px 50px;
+	padding: 15px 30px 15px 30px;
 	border-radius: 40px;
 	font-size: 20px;
 }
